@@ -1,3 +1,3 @@
 # Trabajo-clase
-Denis - 
-Luna -
+Denis - Jefe
+Luna - Colaborador
